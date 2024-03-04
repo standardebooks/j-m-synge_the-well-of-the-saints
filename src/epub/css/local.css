@@ -2,7 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Dialogue table */
-
 [epub|type~="z3998:drama"] table,
 table[epub|type~="z3998:drama"]{
 	border-collapse: collapse;
@@ -43,9 +42,7 @@ section[epub|type~="z3998:scene"] > p{
 	width: 75%;
 }
 
-
-/*Dramatis Personae */
-
+/* Dramatis Personae */
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
@@ -69,10 +66,7 @@ section[epub|type~="z3998:scene"] > p{
 	margin-top: 2em;
 }
 
-
 /* Stage directions and personas */
-
-
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
 }
@@ -97,9 +91,7 @@ i [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
 
-
 /* Editorial stage directions */
-
 [epub|type~="z3998:stage-direction"].editorial::before{
 	content: "[";
 }
@@ -109,7 +101,6 @@ i [epub|type~="z3998:persona"]{
 }
 
 /* Abbreviated stage directions */
-
 abbr[epub|type~="z3998:stage-direction"]{
 	font-style: normal;
 	font-variant: all-small-caps;
@@ -117,11 +108,10 @@ abbr[epub|type~="z3998:stage-direction"]{
 
 abbr[epub|type~="z3998:stage-direction"]::before,
 abbr[epub|type~="z3998:stage-direction"]::after{
-	content: '';
+	content: "";
 }
 
 /* Together CSS (for multiple speakers speaking together) */
-
 tr.together{
 	break-inside: avoid;
 }
