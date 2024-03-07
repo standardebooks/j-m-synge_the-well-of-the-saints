@@ -154,3 +154,8 @@ tr.together td + td{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+/* Support Latin in div */
+div[xml|lang]{
+	font-style: italic;
+}
