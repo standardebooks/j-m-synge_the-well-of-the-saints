@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="act-1.xhtml">
+		<ignore>
+			<code>t-052</code>
+			<reason>Stage direction properly ends with no punctuation, starts with capital letter because of proper noun.</reason>
+		</ignore>
+	</file>
+	<file path="act-2.xhtml">
+		<ignore>
+			<code>t-052</code>
+			<reason>Stage direction properly ends with no punctuation, starts with capital letter because of proper noun.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
