@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-m-synge/the-well-of-the-saints</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-03-15T16:04:01Z</dc:date>
+		<meta property="dcterms:modified">2024-03-15T16:04:01Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,14 +34,14 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">The lives of two blind beggars change when a holy man comes to their rural Irish village promising to miraculously restore their sight.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Well of the Saints&lt;/i&gt; opens with the arrival of a wandering holy man to a small Irish village promising to restore the sight of the blind beggars who live by the crossroads there. The small community is upended by the arrival of the miracle worker and his can of water from a remote holy well.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-m-synge"&gt;John Millington Synge&lt;/a&gt; uses this simple story to expose and ridicule the pretensions and hypocrisies of every character in the story, the holy, the lowly, and the respectable alike. Synge’s ruthless and irreverent comedy enraged contemporary critics, especially his treatment of the holy man and by implication the Catholic Church; the same traits that would lead to riots in Dublin and New York on the premiere of his next play, &lt;a href="https://standardebooks.org/ebooks/j-m-synge/the-playboy-of-the-western-world"&gt;&lt;i&gt;The Playboy of the Western World&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Well of the Saints&lt;/i&gt; opens with the arrival of a wandering holy man and his can of water from a remote holy well to a small Irish village, promising to restore the sight of the blind beggars who live by the crossroads there.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-m-synge"&gt;Synge&lt;/a&gt; uses this simple story to expose and ridicule the pretensions and hypocrisies of every character in the story—the holy, the lowly, and the respectable alike. His ruthless and irreverent comedy—and especially his treatment of the holy man, and by implication, the Catholic Church—enraged contemporary critics. This same satirical style is what would later lead to riots in Dublin and New York on the premiere of his next play, &lt;a href="https://standardebooks.org/ebooks/j-m-synge/the-playboy-of-the-western-world"&gt;&lt;i&gt;The Playboy of the Western World&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1241</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001024645</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">16195</meta>
+		<meta property="se:reading-ease.flesch">88.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Well_of_the_Saints</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-m-synge_the-well-of-the-saints</meta>
 		<dc:creator id="author">J. M. Synge</dc:creator>
@@ -69,6 +69,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
