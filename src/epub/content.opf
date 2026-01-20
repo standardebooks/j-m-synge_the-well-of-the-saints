@@ -41,7 +41,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1241</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001024645</dc:source>
-		<meta property="se:word-count">16195</meta>
+		<meta property="se:word-count">15398</meta>
 		<meta property="se:reading-ease.flesch">88.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Well_of_the_Saints</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-m-synge_the-well-of-the-saints</meta>
