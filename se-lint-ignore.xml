@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="act-1.xhtml">
 		<ignore code="t-052">
+			<line>249</line>
 			<reason>Stage direction properly ends with no punctuation, starts with capital letter because of proper noun.</reason>
 		</ignore>
 	</file>
 	<file path="act-2.xhtml">
 		<ignore code="t-052">
+			<line>107</line>
 			<reason>Stage direction properly ends with no punctuation, starts with capital letter because of proper noun.</reason>
 		</ignore>
 	</file>
