@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-m-synge/the-well-of-the-saints</dc:identifier>
 		<dc:date>2024-03-15T16:04:01Z</dc:date>
@@ -34,11 +34,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008115496</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:description id="description">The lives of two blind beggars change when a holy man comes to their rural Irish village promising to miraculously restore their sight.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The lives of two blind beggars change when a holy man comes to their rural Irish village promising to miraculously restore their sight.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Well of the Saints&lt;/i&gt; opens with the arrival of a wandering holy man and his can of water from a remote holy well to a small Irish village, promising to restore the sight of the blind beggars who live by the crossroads there.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-m-synge"&gt;Synge&lt;/a&gt; uses this simple story to expose and ridicule the pretensions and hypocrisies of every character in the story—the holy, the lowly, and the respectable alike. His ruthless and irreverent comedy—and especially his treatment of the holy man, and by implication, the Catholic Church—enraged contemporary critics. This same satirical style is what would later lead to riots in Dublin and New York on the premiere of his next play, &lt;a href="https://standardebooks.org/ebooks/j-m-synge/the-playboy-of-the-western-world"&gt;&lt;i&gt;The Playboy of the Western World&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1241</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001024645</dc:source>
