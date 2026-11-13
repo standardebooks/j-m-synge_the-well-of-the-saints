@@ -51,7 +51,7 @@
 		<dc:creator id="author">J. M. Synge</dc:creator>
 		<meta property="file-as" refines="#author">Synge, J. M.</meta>
 		<meta property="schema:alternateName" refines="#author">John Millington Synge</meta>
-		<link href="https://en.wikipedia.org/wiki/J._M._Synge" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/John_Millington_Synge" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79022811.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Thomas Barker</dc:contributor>
